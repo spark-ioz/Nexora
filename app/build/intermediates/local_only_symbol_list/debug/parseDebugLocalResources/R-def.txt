@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+id widget_favorites
+id widget_lesson_count
+id widget_new_note
+id widget_root
+layout widget_nexora
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.Nexora
+xml file_paths
+xml nexora_widget_info

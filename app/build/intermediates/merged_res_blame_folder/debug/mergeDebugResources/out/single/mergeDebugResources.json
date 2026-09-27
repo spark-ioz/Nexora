@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.nexora.app-debug-42:/xml_file_paths.xml.flat",
+        "source": "com.example.nexora.app-main-44:/xml/file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.nexora.app-debug-42:/layout_widget_nexora.xml.flat",
+        "source": "com.example.nexora.app-main-44:/layout/widget_nexora.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.nexora.app-debug-42:/xml_nexora_widget_info.xml.flat",
+        "source": "com.example.nexora.app-main-44:/xml/nexora_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-debug-42:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Sudheer\\.gradle\\daemon\\9.3.0\\com.example.nexora.app-main-44:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    }
+]
